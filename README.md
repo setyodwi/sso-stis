@@ -4,6 +4,7 @@ Repositori ini berisikan kumpulan dokumentasi dan source dari skrpsi penulis (Se
 
 Repositori ini berisikan empat direktori, yakni
 - CAS
+Direktori ini berisikan source code penulis yang dibuat dari file default template CAS yang disediakan oleh Apereo.
 - LDAP
 - Source
 - Testing

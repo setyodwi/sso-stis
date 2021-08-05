@@ -1,0 +1,11 @@
+dn: uid=221700001,ou=people,dc=kuncimasuk,dc=com
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: mahasiswa1
+sn: mhs1
+userPassword: mahasiswa1
+loginShell: /bin/bash
+uidNumber: 2000
+gidNumber: 10000
+homeDirectory: /home/221700001

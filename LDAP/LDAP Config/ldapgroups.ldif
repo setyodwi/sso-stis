@@ -1,0 +1,5 @@
+dn: cn=mahasiswa,ou=groups,dc=kuncimasuk,dc=com
+objectClass: posixGroup
+cn: mahasiswa
+gidNumber: 10000
+memberUid: 221700001 
